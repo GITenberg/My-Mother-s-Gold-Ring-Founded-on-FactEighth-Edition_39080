@@ -1,0 +1,27 @@
+_repo: My-Mother-s-Gold-Ring-Founded-on-FactEighth-Edition_39080
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39080-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sargent, Lucius M. (Lucius Manlius)
+    birthdate: 1786
+    deathdate: 1867
+    gutenberg_agent_id: '39830'
+    url: http://www.gutenberg.org/2009/agents/39830
+description: ''
+gutenberg_issued: '2012-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39080'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drinking of alcoholic beverages -- Fiction'
+- !lcsh 'Temperance -- Fiction'
+- !lcc 'PS'
+title: "My Mother's Gold Ring: Founded on Fact\r\nEighth Edition"
+url: http://www.gutenberg.org/ebooks/39080
